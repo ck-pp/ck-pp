@@ -42,9 +42,3 @@
       src="https://img.shields.io/badge/ispr2216@naver.com-03CF5D?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
-
-<br></br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-pp&layout=compact&hide=Python" alt="Top Langs" />
-</p>
