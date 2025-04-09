@@ -30,6 +30,11 @@
   <img src="https://img.shields.io/badge/figma-FF3735.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+</div>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:ispr2216@naver.com">
