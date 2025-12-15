@@ -42,8 +42,8 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/IoT-23AA00FF.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firmware-23AA00FF.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/IoT-7B68EE.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firmware-7B68EE.svg?style=for-the-badge" />&nbsp
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
